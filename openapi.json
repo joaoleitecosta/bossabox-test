@@ -1,0 +1,20 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "Tool Manager",
+    "description": "bossabox platform backend test",
+    "version": "1.0"
+  },
+  "produces": ["application/json"],
+
+  "paths": {
+    "/": {
+      "get": {
+        "tags": ["/"],
+        "description": "Api version check",
+
+        "responses": {}
+      }
+    }
+  }
+}

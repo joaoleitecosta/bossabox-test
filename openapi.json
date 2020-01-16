@@ -5,6 +5,8 @@
     "description": "bossabox platform backend test",
     "version": "1.0"
   },
+  "host": "localhost:3333",
+  "basePath": "/",
   "produces": ["application/json"],
 
   "paths": {
